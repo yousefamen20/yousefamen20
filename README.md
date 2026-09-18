@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Yousef Amen
 
-[LinkedIn](www.linkedin.com/in/yousef-amen-602447371) • [Codeforces]([YOUR_CODEFORCES](https://codeforces.com/profile/yousef_amen_19)) 
+[LinkedIn](www.linkedin.com/in/yousef-amen-602447371) • [Codeforces]([YOUR_CODEFORCES](https://codeforces.com/profile/yousef_amen_19)
 
 ---
 
