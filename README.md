@@ -6,10 +6,9 @@
 
 ## 🎓 Who I Am
 
-- 🎓 Software Engineering Student at Suez Canal University
-- 💻 Interested in Software Engineering
-- 🧠 Interested in Problem Solving
-- 🚀 Always learning and improving
+- 🎓 Software Engineering Student
+- 🧠 Algorithm & Problem-Solving Enthusiast
+- 🔥 ICPC Trainee & Competitive Programmer
 
 ---
 
